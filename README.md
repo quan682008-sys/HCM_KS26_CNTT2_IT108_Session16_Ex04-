@@ -8,9 +8,6 @@
 | Hiệu suất làm việc | Phù hợp kiểm tra nhanh nhưng phải đăng nhập lại nhiều lần | Tiện lợi, chuyển đổi tài khoản nhanh, không cần đăng nhập lại thường xuyên |
 | Ưu điểm | Nhanh, dễ sử dụng, ít lưu dấu vết trên máy | Quản lý tài khoản rõ ràng, lưu tài liệu và tiện ích |
 | Nhược điểm | Mất trạng thái phiên khi đóng, không phù hợp làm việc lâu dài | Cần tạo và quản lý nhiều Profile |
-
-> **Đánh giá:** Incognito phù hợp để kiểm thử nhanh. Dedicated Profile phù hợp hơn với lập trình viên vì có thể lưu dữ liệu và duy trì môi trường làm việc ổn định.
-
 ---
 
 ##  Phần 2: Lựa chọn giải pháp
